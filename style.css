@@ -1,0 +1,43 @@
+body { 
+    background-color: aqua;
+
+}
+
+'
+nav {
+    display: inline;
+}
+a.class {
+    color: chocolate;
+    background-color: brown;
+    text-decoration: none;
+    border: pink 5px solide ;
+}
+section {
+    background: fixed blueviolet;
+}
+table {
+    text-align: center;
+}
+img {
+    background-image: solid ;
+}
+h2 {
+    color: beige;
+    background-color: blueviolet;
+    text-align: left ;
+    margin-top: auto;
+    border: dotted;
+}
+p {
+    text-decoration-line: underline;
+    text-transform: lowercase;
+}
+tr {
+    font-size: larger ;
+    
+}
+.style {
+    flex-direction: column;
+    
+}
